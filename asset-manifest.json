@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/novialeta/Todolist-Nopii/static/css/main.32896a3d.css",
+    "main.js": "/novialeta/Todolist-Nopii/static/js/main.09a2f868.js",
+    "static/js/787.54707ff7.chunk.js": "/novialeta/Todolist-Nopii/static/js/787.54707ff7.chunk.js",
+    "index.html": "/novialeta/Todolist-Nopii/index.html",
+    "main.32896a3d.css.map": "/novialeta/Todolist-Nopii/static/css/main.32896a3d.css.map",
+    "main.09a2f868.js.map": "/novialeta/Todolist-Nopii/static/js/main.09a2f868.js.map",
+    "787.54707ff7.chunk.js.map": "/novialeta/Todolist-Nopii/static/js/787.54707ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32896a3d.css",
+    "static/js/main.09a2f868.js"
+  ]
+}
